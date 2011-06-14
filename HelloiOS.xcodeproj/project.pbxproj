@@ -23,14 +23,14 @@
 		FC9529BA13A7E1E6001FDFCB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FC9529BC13A7E1E6001FDFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FC9529BE13A7E1E6001FDFCB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FC9529C213A7E1E6001FDFCB /* HelloiOS-Info.plist */ = {isa = PBXFileReference; path = "HelloiOS-Info.plist"; sourceTree = "<group>"; };
+		FC9529C213A7E1E6001FDFCB /* HelloiOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloiOS-Info.plist"; sourceTree = "<group>"; };
 		FC9529C413A7E1E6001FDFCB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FC9529C613A7E1E6001FDFCB /* HelloiOS-Prefix.pch */ = {isa = PBXFileReference; path = "HelloiOS-Prefix.pch"; sourceTree = "<group>"; };
+		FC9529C613A7E1E6001FDFCB /* HelloiOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloiOS-Prefix.pch"; sourceTree = "<group>"; };
 		FC9529C713A7E1E6001FDFCB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FC9529C913A7E1E6001FDFCB /* HelloiOSAppDelegate.h */ = {isa = PBXFileReference; path = HelloiOSAppDelegate.h; sourceTree = "<group>"; };
+		FC9529C913A7E1E6001FDFCB /* HelloiOSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloiOSAppDelegate.h; sourceTree = "<group>"; };
 		FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloiOSAppDelegate.m; sourceTree = "<group>"; };
 		FC9529CD13A7E1E7001FDFCB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		FC9529CF13A7E1E7001FDFCB /* HelloiOSViewController.h */ = {isa = PBXFileReference; path = HelloiOSViewController.h; sourceTree = "<group>"; };
+		FC9529CF13A7E1E7001FDFCB /* HelloiOSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloiOSViewController.h; sourceTree = "<group>"; };
 		FC9529D013A7E1E7001FDFCB /* HelloiOSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloiOSViewController.m; sourceTree = "<group>"; };
 		FC9529D313A7E1E7001FDFCB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloiOSViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
