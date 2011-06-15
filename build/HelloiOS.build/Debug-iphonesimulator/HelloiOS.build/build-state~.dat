@@ -1,0 +1,252 @@
+THelloiOS
+v7
+r0
+t329863300.024310
+cCheck dependencies
+cProcessInfoPlistFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/Info.plist HelloiOS/HelloiOS-Info.plist
+cDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/main.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSAppDelegate.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSViewController.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCopyStringsFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/InfoPlist.strings HelloiOS/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+cCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Prefix.pch
+c000000004DF7AA660000000000000142
+t1308076646
+s322
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.h
+c000000004DF7AA660000000000000197
+t1308076646
+s407
+i<UIKit/UIKit.h>
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m
+c000000004DF7AA66000000000000095A
+t1308076646
+s2394
+i"HelloiOSAppDelegate.h"
+i"HelloiOSViewController.h"
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.h
+c000000004DF7AA6700000000000000E7
+t1308076647
+s231
+i<UIKit/UIKit.h>
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m
+c000000004DF7DEBF00000000000003AE
+t1308090047
+s942
+i"HelloiOSViewController.h"
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+c000000004DF7E28B0000000000002049
+t1308091019
+s8265
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/InfoPlist.strings
+c000000004DF7AA66000000000000002D
+t1308076646
+s45
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+c000000004DF7AA670000000000004E25
+t1308076647
+s20005
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m
+c000000004DF7AA660000000000000157
+t1308076646
+s343
+i<UIKit/UIKit.h>
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app.dSYM
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/HelloiOS
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/Info.plist
+t1308170497
+s780
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/PkgInfo
+t1308170497
+s8
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/HelloiOSViewController.nib
+t1308170500
+s1984
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/InfoPlist.strings
+t1308170499
+s42
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/MainWindow.nib
+t1308170499
+s1683
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOS.LinkFileList
+c000000004DF9190100000000000001B0
+t1308170497
+s432
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSAppDelegate.o
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSViewController.o
+t1308170499
+s31036
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/main.o
+t1308170499
+s3132
+
+NHelloiOS/HelloiOS-Info.plist
+c000000004DF7AA6600000000000004A2
+t1308076646
+s1186
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329863297#329863297#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+s329863299.588556
+e329863300.024228
+r1
+xCompileXIB
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@55"CompileXIB HelloiOS/en.lproj/HelloiOSViewController.xib329863299#329863300#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#92"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib8604587648#649"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/HelloiOSViewController.nib /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+s329863299.308110
+e329863299.829452
+r1
+xCompileXIB
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB HelloiOS/en.lproj/MainWindow.xib329863299#329863299#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#80"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib8605337792#625"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/MainWindow.nib /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCopyStringsFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/InfoPlist.strings HelloiOS/en.lproj/InfoPlist.strings
+s329863299.307356
+e329863299.588465
+r1
+xCopyStringsFile
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj/InfoPlist.strings
+xHelloiOS/en.lproj/InfoPlist.strings
+lSLF07#2@40"Copy HelloiOS/en.lproj/InfoPlist.strings329863299#329863299#0(0"0(0#0#83"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/InfoPlist.strings8605160896#511"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary HelloiOS/en.lproj/InfoPlist.strings --outdir /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/en.lproj0#
+
+CDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSAppDelegate.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s329863297.639095
+e329863299.132991
+r0
+xDistributed-CompileC
+xbuild/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSAppDelegate.o
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+odistcc[18404] ERROR: nonblocking connect to 127.0.0.1:3632 failed: Connection refused
+odistcc[18404] Warning: failed to distribute /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m to localhost:3632/2, running locally instead
+o/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m: In function '-[HelloiOSAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m:24: error: request for member 'rootViewController' in something not a structure or union
+odistcc[18404] ERROR: compile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m on localhost failed
+lSLF07#2@104"Distribute compilation of /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m329863297#329863299#0(711"distcc[18404] ERROR: nonblocking connect to 127.0.0.1:3632 failed: Connection refuseddistcc[18404] Warning: failed to distribute /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m to localhost:3632/2, running locally instead/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m: In function '-[HelloiOSAppDelegate application:didFinishLaunchingWithOptions:]':/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m:24: error: request for member 'rootViewController' in something not a structure or uniondistcc[18404] ERROR: compile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m on localhost failed1(4@77"Request for member 'rootViewController' in something not a structure or union329863299#415#168#0(6@78"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m329769446#24#0#24#0#0"0(0#0#78"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m8605085728#2286"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv DISTCC_COMPILER "gcc version 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2326.10)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM Unavailable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-generated-files.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-own-target-headers.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-all-target-headers.hmap -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-project-headers.hmap -fpch-preprocess -F/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/include -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources/i386 -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -include /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Prefix.pch -c /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSAppDelegate.m -o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSAppDelegate.o1#
+
+CDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSViewController.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s329863299.133152
+e329863299.307258
+r1
+xDistributed-CompileC
+xbuild/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSViewController.o
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+odistcc[18422] (dcc_build_somewhere) Warning: failed to distribute, running locally instead
+lSLF07#2@107"Distribute compilation of /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m329863299#329863299#0(91"distcc[18422] (dcc_build_somewhere) Warning: failed to distribute, running locally instead0(0#0#81"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m7298135231014989824#2292"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv DISTCC_COMPILER "gcc version 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2326.10)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM Unavailable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-generated-files.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-own-target-headers.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-all-target-headers.hmap -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-project-headers.hmap -fpch-preprocess -F/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/include -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources/i386 -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -include /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Prefix.pch -c /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOSViewController.m -o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/HelloiOSViewController.o0#
+
+CDistributed-CompileC build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/main.o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s329863297.620747
+e329863299.193081
+r1
+xDistributed-CompileC
+xbuild/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/main.o
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+odistcc[18403] ERROR: nonblocking connect to 127.0.0.1:3632 failed: Connection refused
+odistcc[18403] Warning: failed to distribute /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m to localhost:3632/2, running locally instead
+lSLF07#2@89"Distribute compilation of /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m329863297#329863299#0(239"distcc[18403] ERROR: nonblocking connect to 127.0.0.1:3632 failed: Connection refuseddistcc[18403] Warning: failed to distribute /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m to localhost:3632/2, running locally instead0(0#0#63"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m8604788928#2256"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv DISTCC_COMPILER "gcc version 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2326.10)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM Unavailable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-generated-files.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-own-target-headers.hmap -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-all-target-headers.hmap -iquote /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/HelloiOS-project-headers.hmap -fpch-preprocess -F/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/include -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources/i386 -I/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -include /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Prefix.pch -c /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/main.m -o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/HelloiOS.build/Debug-iphonesimulator/HelloiOS.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app.dSYM /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/HelloiOS
+r0
+
+CLd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/HelloiOS normal i386
+r0
+
+CProcessInfoPlistFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/Info.plist HelloiOS/HelloiOS-Info.plist
+s329863297.593943
+e329863297.620666
+r1
+xProcessInfoPlistFile
+x/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/Info.plist
+xHelloiOS/HelloiOS-Info.plist
+lSLF07#2@36"Process HelloiOS/HelloiOS-Info.plist329863297#329863297#0(0"0(0#0#76"/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Info.plist31525614006435924#518"    cd /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloiOS/HelloiOS-Info.plist -genpkginfo /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app/Info.plist0#
+
+CTouch /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug-iphonesimulator/HelloiOS.app
+r0
+

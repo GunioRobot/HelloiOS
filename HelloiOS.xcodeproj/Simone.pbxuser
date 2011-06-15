@@ -1,0 +1,284 @@
+// !$*UTF8*$!
+{
+	FC4F22AF13A9501300AF9B26 /* HelloiOS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloiOS;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FC4F22B813A9504400AF9B26 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FC4F22B913A9504400AF9B26 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FC4F22BC13A950A000AF9B26 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'rootViewController' in something not a structure or union";
+		fRef = FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	FC4F22BD13A950A000AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */;
+		name = "HelloiOSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 241;
+	};
+	FC4F22C813A950C800AF9B26 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FC9529C213A7E1E6001FDFCB /* HelloiOS-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/HelloiOS-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	FC4F22C913A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529C713A7E1E6001FDFCB /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	FC4F22CA13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529C413A7E1E6001FDFCB /* en */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	FC4F22CB13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529C913A7E1E6001FDFCB /* HelloiOSAppDelegate.h */;
+		name = "HelloiOSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	FC4F22CC13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529C613A7E1E6001FDFCB /* HelloiOS-Prefix.pch */;
+		name = "HelloiOS-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	FC4F22CD13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */;
+		name = "HelloiOSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 0;
+	};
+	FC4F22CE13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529CF13A7E1E7001FDFCB /* HelloiOSViewController.h */;
+		name = "HelloiOSViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+	FC4F22CF13A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529D013A7E1E7001FDFCB /* HelloiOSViewController.m */;
+		name = "HelloiOSViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 253;
+	};
+	FC4F22D013A950C800AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529D013A7E1E7001FDFCB /* HelloiOSViewController.m */;
+		name = "HelloiOSViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 232;
+	};
+	FC4F22DB13A950D700AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */;
+		name = "HelloiOSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 241;
+	};
+	FC4F22DC13A950DA00AF9B26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FC9529D013A7E1E7001FDFCB /* HelloiOSViewController.m */;
+		name = "HelloiOSViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 232;
+	};
+	FC9529AD13A7E1E6001FDFCB /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FC4F22AF13A9501300AF9B26 /* HelloiOS */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = FC9529B513A7E1E6001FDFCB /* HelloiOS */;
+		codeSenseManager = FC4F22B913A9504400AF9B26 /* Code sense */;
+		executables = (
+			FC4F22AF13A9501300AF9B26 /* HelloiOS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					940,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329863187;
+			PBXWorkspaceStateSaveDate = 329863187;
+		};
+		perUserProjectItems = {
+			FC4F22BC13A950A000AF9B26 /* XCBuildMessageTextBookmark */ = FC4F22BC13A950A000AF9B26 /* XCBuildMessageTextBookmark */;
+			FC4F22BD13A950A000AF9B26 /* PBXTextBookmark */ = FC4F22BD13A950A000AF9B26 /* PBXTextBookmark */;
+			FC4F22C813A950C800AF9B26 /* PlistBookmark */ = FC4F22C813A950C800AF9B26 /* PlistBookmark */;
+			FC4F22C913A950C800AF9B26 /* PBXTextBookmark */ = FC4F22C913A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CA13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CA13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CB13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CB13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CC13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CC13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CD13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CD13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CE13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CE13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22CF13A950C800AF9B26 /* PBXTextBookmark */ = FC4F22CF13A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22D013A950C800AF9B26 /* PBXTextBookmark */ = FC4F22D013A950C800AF9B26 /* PBXTextBookmark */;
+			FC4F22DB13A950D700AF9B26 /* PBXTextBookmark */ = FC4F22DB13A950D700AF9B26 /* PBXTextBookmark */;
+			FC4F22DC13A950DA00AF9B26 /* PBXTextBookmark */ = FC4F22DC13A950DA00AF9B26 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FC4F22B813A9504400AF9B26 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FC9529B513A7E1E6001FDFCB /* HelloiOS */ = {
+		activeExec = 0;
+		executables = (
+			FC4F22AF13A9501300AF9B26 /* HelloiOS */,
+		);
+	};
+	FC9529C413A7E1E6001FDFCB /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	FC9529C613A7E1E6001FDFCB /* HelloiOS-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 322}";
+		};
+	};
+	FC9529C713A7E1E6001FDFCB /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 343}";
+		};
+	};
+	FC9529C913A7E1E6001FDFCB /* HelloiOSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 407}";
+		};
+	};
+	FC9529CA13A7E1E6001FDFCB /* HelloiOSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{522, 0}";
+			sepNavVisRange = "{241, 1177}";
+		};
+	};
+	FC9529CF13A7E1E7001FDFCB /* HelloiOSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 231}";
+		};
+	};
+	FC9529D013A7E1E7001FDFCB /* HelloiOSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 650}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{232, 710}";
+		};
+	};
+}

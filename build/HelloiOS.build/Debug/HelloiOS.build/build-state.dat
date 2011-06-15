@@ -1,0 +1,63 @@
+THelloiOS
+v7
+r1
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+c000000004DF7E28B0000000000002049
+t1308091019
+s8265
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/InfoPlist.strings
+c000000004DF7AA66000000000000002D
+t1308076646
+s45
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+c000000004DF7AA670000000000004E25
+t1308076647
+s20005
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Resources/en.lproj/HelloiOSViewController.nib
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+NHelloiOS/HelloiOS-Info.plist
+c000000004DF7AA6600000000000004A2
+t1308076646
+s1186
+
+CCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/HelloiOSViewController.xib
+r0
+
+CCompileXIB /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/HelloiOS/en.lproj/MainWindow.xib
+r0
+
+CCopyStringsFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Resources/en.lproj/InfoPlist.strings HelloiOS/en.lproj/InfoPlist.strings
+r0
+
+CProcessInfoPlistFile /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app/Contents/Info.plist HelloiOS/HelloiOS-Info.plist
+r0
+
+CTouch /Users/Simone/Documents/Xcode/HelloiOS/HelloiOS/build/Debug/HelloiOS.app
+r0
+
